@@ -38,8 +38,31 @@ void menu(){
         tinhtiendien();
         menu();
         break;
-    
-    
+    case 6:
+        inBangCuuChuong();
+        menu();
+        break;
+    case 7:
+        inBangCuuChuong();
+        menu();
+        break;
+    case 8:
+        inBangCuuChuong();
+        menu();
+        break;
+    case 9:
+        inBangCuuChuong();
+        menu();
+        break;
+    case 10:
+        inBangCuuChuong();
+        menu();
+        break;
+    case 11:
+        inBangCuuChuong();
+        menu();
+        break;
+  
     default:
         menu();
         break;
